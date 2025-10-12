@@ -168,7 +168,7 @@
                               <li><a href="#sobre">Quem Somos</a></li>
                               <li><a href="#servicos">Serviços</a></li>
                               <li><a href="#processo">Nossos Processos</a></li>
-                              <li><a href="https://api.whatsapp.com/send?phone=5574981044566&text=Olá!%20Gostaria%20de%20falar%20com%20a%20Fernanda%20da%20Positiva%20Comunicação." target="_BLANK">Contato</a></li>
+                              <li><a href="#contato">Fale Conosco</a></li>
                            </ul>
                         </nav>
                      </div>
@@ -507,6 +507,76 @@
 <!-- about area end -->
 
 
+
+
+
+<div class="tv-contact-area pt-130 pb-130">
+   <div class="container">
+      <div class="tv-contact-wrap">
+         <div class="row gy-4 align-items-center">
+            <div class="col-xxl-6 col-xl-6 col-lg-6">
+               <div class="tv-contact-left-wrap">
+                  <div class="tv-section-title-box mb-44">
+                     <span class="tv-section-subtitle">Contato</span>
+                     <h4 class="tv-section-title">Fale com a Positiva MKT</h4>
+                     <p>Entre em contato com nossa equipe e descubra como podemos impulsionar sua marca com estratégias de comunicação inteligentes.</p>
+                  </div>
+
+                  <div class="tv-card-box mb-40">
+                     <div class="icon">
+                        <i class="fa-solid fa-phone"style="color:white"></i>
+                     </div>
+                     <div class="content">
+                        <h4>WhatsApp</h4>
+                        <p><a href="https://api.whatsapp.com/send?phone=5574981044566&text=Olá!%20Gostaria%20de%20falar%20com%20a%20Positiva%20MKT.">+55 (74) 98104-4566</a></p>
+                     </div>
+                  </div>
+
+                  <div class="tv-card-box mb-40">
+                     <div class="icon">
+                        <i class="fa-solid fa-envelope"style="color:white"></i>
+                     </div>
+                     <div class="content">
+                        <h4>E-mail</h4>
+                        <p><a href="mailto:fernandabarros.jornalismo@gmail.com">fernandabarros.jornalismo@gmail.com</a></p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+
+            <div class="col-xxl-6 col-xl-6 col-lg-6 wow itfadeUp" data-wow-delay=".2s"  id="contato">
+               <div class="tv-contact-right-wrap">
+                  <h1 class="text-white">Envie uma mensagem</h1>
+                  <p>Responderemos o mais breve possível 😉</p>
+
+                  <form action="enviar-email.php" method="POST">
+                     <div class="tv-contact-input-box mb-24">
+                        <input type="text" name="nome" placeholder="Seu nome *" required>
+                     </div>
+                     <div class="tv-contact-input-box mb-24">
+                        <input type="email" name="email" placeholder="Seu e-mail *" required>
+                     </div>
+                     <div class="tv-contact-input-box mb-24">
+                        <input type="text" name="servico" placeholder="Assunto / Serviço *" required>
+                     </div>
+                     <div class="it-contact-textarea-box mb-24">
+                        <textarea name="mensagem" placeholder="Sua mensagem *" rows="3" required></textarea>
+                     </div>
+                     <button class="tv-btn-primary" type="submit">
+                        <span class="btn-wrap">
+                           <span class="btn-text1">Enviar Mensagem</span>
+                           <span class="btn-text2">Enviar Mensagem</span>
+                        </span>
+                     </button>
+                  </form>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+
+
     
 
    </main>
@@ -527,7 +597,7 @@
                         <li><a href="#home">Início</a></li>
                         <li><a href="#sobre">Sobre</a></li>
                         <li><a href="#servicos">Serviços</a></li>
-                        <li><a href="https://api.whatsapp.com/send?phone=5574981044566&text=Olá!%20Gostaria%20de%20falar%20com%20a%20Fernanda%20da%20Positiva%20Comunicação." target="_BLANK">Contato</a></li>
+                        <li><a href="#contato" target="_BLANK">Fale Conosco</a></li>
                      </ul>
                   </div>
                </div>
