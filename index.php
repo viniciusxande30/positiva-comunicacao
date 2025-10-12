@@ -205,7 +205,7 @@
    <main>
 
        <!-- Hero-area-start -->
-       <div class="tv-hero-area tv-hero-two pb-130 pt-130 p-relative" style="background-image: url(assets/img/hero/hero-bg-2.png);" id="home">
+       <div class="tv-hero-area tv-hero-two pb-130 pt-130 p-relative" style="background-image: url(assets/img/hero/hero-bg-2.webp);" id="home">
          <div class="container">
             <div class="row align-items-center">
                <div class="col-xl-6 col-lg-6">
